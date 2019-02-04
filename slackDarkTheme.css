@@ -3642,7 +3642,7 @@ nav#api_nav { background: transparent; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25
 
 .splash_interactive__window::after { background: linear-gradient(to bottom, rgba(34, 34, 34, 0) 0, #222 100%); }
 
-.splash_interactive__window_response { background-color: #fff; }
+.splash_interactive__window_response { background-color: #000; }
 
 a.splash_interactive__window_link { color: #e6e6e6; }
 
